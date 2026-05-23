@@ -7,14 +7,14 @@
 }
 
 .left{
-  flex: 0.25;
+  flex: 0.2;
   padding: 30px 10px;
 }
 
 .middle{
-  flex: 0.55;
+  flex: 0.45;
 }
 
 .right{
-  flex: 0.2;
+  flex: 0.35;
 }

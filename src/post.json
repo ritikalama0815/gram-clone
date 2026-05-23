@@ -1,0 +1,74 @@
+{
+    "post": [
+      {
+        "name": "hiker",
+        "img": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+        "duration": "5 mins ago",
+        "desc": "Caught the sunrise during a quiet mountain hike before the trails became crowded.",
+        "likes": 128
+      },
+      {
+        "name": "barista",
+        "img": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+        "duration": "12 mins ago",
+        "desc": "Tried a new caramel latte from the local café while working on project notes.",
+        "likes": 94
+      },
+      {
+        "name": "albedo",
+        "img": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
+        "duration": "18 mins ago",
+        "desc": "Downtown looked stunning tonight with reflections glowing across the wet streets.",
+        "likes": 3142
+      },
+      {
+        "name": "eren",
+        "img": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+        "duration": "25 mins ago",
+        "desc": "Spent the afternoon relaxing near the shoreline with calm waves and cool weather.",
+        "likes": 211
+      },
+      {
+        "name": "coder",
+        "img": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+        "duration": "40 mins ago",
+        "desc": "Finished debugging the API integration after hours of testing and refactoring.",
+        "likes": 176
+      },
+      {
+        "name": "yumyum",
+        "img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836",
+        "duration": "1 hour ago",
+        "desc": "Found an amazing food truck serving spicy tacos and handmade lemonade.",
+        "likes": 389
+      },
+      {
+        "name": "haitham_al",
+        "img": "https://images.unsplash.com/photo-1507842217343-583bb7270b66",
+        "duration": "2 hours ago",
+        "desc": "Quiet study session with a stack of research papers and strong coffee.",
+        "likes": 143
+      },
+      {
+        "name": "pain",
+        "img": "https://images.unsplash.com/photo-1515694346937-94d85e41e6f0",
+        "duration": "3 hours ago",
+        "desc": "Rain tapping against the glass made the whole evening feel peaceful.",
+        "likes": 267
+      },
+      {
+        "name": "gymrat",
+        "img": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438",
+        "duration": "5 hours ago",
+        "desc": "Completed an intense workout session and finally hit a new personal record.",
+        "likes": 451
+      },
+      {
+        "name": "mavika",
+        "img": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+        "duration": "8 hours ago",
+        "desc": "Late-night drive through empty roads with music playing at full volume.",
+        "likes": 198
+      }
+    ]
+  }
